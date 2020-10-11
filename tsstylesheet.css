@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(255, 182, 215);
+  }
+  
+#title {
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 200px;
+    margin-left: -50px;
+    margin-right:50px;
+    width: 100%;
+    height: 100%;
+}
+
+#songs {
+    color: white;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    margin-left: -50px;
+    margin-right:50px;
+    width: 75%;
+    height: 744%;
+    padding: 16px;
+    border: 6px solid rgb(127, 188, 227);
+}
+
+#shakeitoff {
+    padding: 32px;
+    width: left 50%;
+}
+
+#speaknowalbum {
+    padding: 32px;
+    width: left 50%;
+    size: 70%;
+}
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  a {
+    color: white;
+    font-family: verdana;
+    font-size: 20px
+  }
+
+  small {
+    font-family: verdana;
+    font-size: 20px;
+    color: darkmagenta;
+  }
+
+  medium {
+      font-family: verdana;
+      font-size: 20px;
+      color: darkgreen;
+  }
