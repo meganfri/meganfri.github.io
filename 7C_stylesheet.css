@@ -1,0 +1,168 @@
+body {
+    background-color: lightyellow;
+  }
+
+#h1 {
+    position: absolute;
+    left: 475px;
+    top: -75px;
+    color: blueviolet; 
+    font-size: 60px;
+    font-family: 'Indie Flower', cursive, blueviolet bold;
+}
+
+#We {
+    position: absolute;
+    left: 83px;
+    top: 212px;
+    margin: 0px;
+    font-size: 40px;
+    font: verdana;
+}
+
+a{
+    color: lime;
+    font-family: 'Indie Flower', cursive;
+}
+
+#Count {
+    position: absolute;
+    left: 400px;
+    top: 575px;
+    margin: 0px;
+    font-size: 40px;
+    font: verdana white;
+}
+
+#You {
+    position: absolute;
+    left: 800px;
+    top: 775px;
+    margin:0px;
+    font-size: 40px;
+}
+
+#sun {
+    position: absolute;
+    left: 215px;
+    top: 285px;
+    width: 45%;
+    height: 60%
+}
+
+#sun img {width: 35%; height: 25%;}
+
+#pic1 {
+    position: absolute;
+    left: 250px;
+    top: 380px;
+    width: 45%;
+    height: 60%;
+}
+
+#pic1 img {width: 40%; height: 70%;}
+
+#pic7 {
+    position: absolute;
+    left: 900px;
+    top: 600px;
+    width: 45%;
+    height: 60%;
+}
+
+#pic7 img {width: 55%; height: 50%;}
+
+#pic6 {
+    position: absolute;
+    left: 800px;
+    top: 830px;
+    width: 45%;
+    height: 60%;
+}
+
+#pic6 img {width: 50%; height: 74%;}
+
+#pic2 {
+    position: absolute;
+    left: 700px;
+    top: 380px;
+    width: 45%;
+    height: 60%;
+}
+
+#pic2 img {width: 70%; height: 55%;}
+
+#pic3 {
+    position: absolute;
+    left: 500px;
+    top: 530px;
+    width: 45%;
+    height: 60%;
+}
+
+#pic3 img {width: 50%; height: 70%;}
+
+
+#pic4 {
+    position: absolute;
+    left: 200px;
+    top: 730px;
+    width: 45%;
+    height: 60%;
+}
+
+#pic4 img {width: 55%; height: 70%;}
+
+
+#pic5 {
+    position: absolute;
+    left: 380px;
+    top: 180px;
+    width: 45%;
+    height: 60%;
+}
+
+#pic5 img {width: 40%; height: 70%;}
+
+#pic8 {
+    position: absolute;
+    left: 600px;
+    top: 160px;
+    width: 45%;
+    height: 60%;
+}
+
+#pic8 img {width: 45%; height: 40%;}
+
+#sisterhood {
+    position: absolute;
+    left: 1000px;
+    top: 260px;
+    width: 45%;
+    height: 60%;
+}
+
+#sisterhood img {width: 20%; height: 35%;}
+
+#bracelet {
+    position: absolute;
+    left: 350px;
+    top: 700px;
+}
+
+#bracelet img {width:50%; height: 55%;}
+
+#spotify {
+    position: absolute;
+    left: 515px;
+    top: 700px;
+}
+
+#spotify img {width:50%; height: 55%};
+
+
+
+
+
+
+
